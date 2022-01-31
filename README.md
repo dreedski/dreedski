@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dreedski
+- 👋 Hi, I’m Drew Reed.
 - 👀 I have completed my Associate's Degree in Computer Science from Roger's State University
 - 🌱 I’m currently continuing my learning of HTML, CSS, JavaScript and everything that goes with it. I am mainly working on TeamTreeHouse at this moment. 
 - 📫 How to reach me... drew.reed@hotmail.com
